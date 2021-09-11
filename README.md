@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Anuragi
 - 👀 I’m interested in learning technologies and devoloping new skills
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently improving CS Fundamentals and Data Structure and Algorithm
 - 📫 You can reach me via ...
          Linkedin: https://www.linkedin.com/in/vaibhav-anuragi-631a7b161
          E-mail: vaibhaverma132@gmail.com
